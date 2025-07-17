@@ -275,6 +275,7 @@
 > │   │   │   └── chapa.controller.js
 > │   │   ├── middleware/
 > │   │   ├── model/
+>             |__ auth.model.js
 > │   │   │   └── chapa.model.js
 > │   │   ├── routes/
 > │   │   │   ├── auth.routes.js
@@ -282,8 +283,10 @@
 > │   │   ├── service/
 > │   │   │   └── chapa.service.js
 > │   │   ├── utils/
+>             |___auth.utils.js
 > │   │   │   └── chapa.utils.js
 > │   │   ├── validators/
+>             |__auth.validator.js
 > │   │   │   └── chapa.validator.js
 > │   │   └── index.js
 > │   └── ...
