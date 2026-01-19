@@ -41,5 +41,5 @@ User Model – Stores member/admin details, Telegram IDs, tasks, and payments.
 Donation Model – Tracks donation amounts, methods, and donor info.
 Task Model – Manages assigned tasks, deadlines, and statuses.
 Payment Model – Records membership fees and donation transactions.
-link of image and video and other assats
+link of image and video and other assat
 
